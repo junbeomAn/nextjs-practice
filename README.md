@@ -1,6 +1,4 @@
-Next.js 연습
-
-Next.js 기본 기능들
+# Next.js 기본 기능들
 
 - create-next-app
 - pages and routing
@@ -13,6 +11,9 @@ Next.js 기본 기능들
 - Data Fetching - getStaticProps, getStaticPaths / getServerSideProps
 - Export a Static Website
 - API routes, using API data
+
+
+-------
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
